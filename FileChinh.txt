@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-Ha Noi dep
-=======
-Sài Gòn nắng qué
->>>>>>> Stashed changes
